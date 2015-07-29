@@ -1,4 +1,4 @@
-# Visualizing the painfulness of bee strings by body location
+# Visualizing the painfulness of bee stings by body location
 
 This repository visualizes the data from:
 
