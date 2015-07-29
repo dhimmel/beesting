@@ -6,4 +6,4 @@ This repository visualizes the data from:
 
 In this study, the author reported the painfulness of self-inflicted bee stings for 25 locations. Each location was stung three times. Below is pain:
 
-![](figure/stripplot.png?raw=true)
+![](figure/locations.png?raw=true)
